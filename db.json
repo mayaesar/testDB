@@ -30,5 +30,13 @@
       "time": "11:00",
       "organizer": "Carey Wales"
     }
+  ],
+
+  "todo": [
+    {
+      "id": 1,
+      "task": "create check list",
+      "status": false
+    }
   ]
 }
