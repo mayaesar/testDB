@@ -35,7 +35,7 @@
   "todo": [
     {
       "task": "create check list",
-      "status": false
+      "status": "false"
     }
   ]
 }
